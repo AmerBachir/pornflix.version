@@ -1,7 +1,7 @@
 {
   "app": {
-    "latest_version": "6.7.4",
-    "min_version": "6.7.4",
+    "latest_version": "6.7.5",
+    "min_version": "6.7.5",
     "update_url": "https://pornflixapp.netlify.app/assets/apk/pornflix.apk",
     "force_update_message": "Your version of PornFlix is no longer supported. Please update to the latest version to continue using the application.",
     "optional_update_message": "A new version of PornFlix is available! It contains new features and improvements. Would you like to update now?"
